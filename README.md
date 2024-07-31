@@ -2,10 +2,10 @@
 
 Get to Know Me Here
 - 👋 Hi, I’m @ylnhari
-- 👀 I’m interested in Machine Learning, Data Science, Cloud technologies.
-- 🌱 I’m on a never ending journey of learning Data Science.
-- 🔭 I’m currently working on Implementing Data Science/ML Solutions on Azure Cloud Platform.
-- 💞️ I’m looking to collaborate on Data Science Projects, Machine Learning and Deep Learning Projects.
+- 👀 I’m interested in AI/Machine Learning, Data Science, Cloud technologies.
+- 🌱 I’m on a never ending journey of learning Data Science/AI/ML/DL/MLOPS.
+- 🔭 I’m currently working on Implementing AI/ML Cyber Security solutions on Google Cloud Platform and on premise Nvidia DGX Server.
+- 💞️ I’m looking to collaborate on Data Science Projects, AI/Machine Learning and Deep Learning Projects.
 - 📫 How to reach me ylnharimailme@gmail.com
 
 
