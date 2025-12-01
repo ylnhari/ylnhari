@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Get to Know Me Here
-- 👋 Hi, I’m @ylnhari
+- 👋 Hi, I’m @hari
 - 👀 I’m an AI/ML Engineer | Data Scientist | MLOps Specialist | Proficient in Google Cloud & Azure Platforms
 - 🌱 I’m on a never ending journey of learning.
 - 🔭 I’m currently Driving AI Innovation at Best Buy.
