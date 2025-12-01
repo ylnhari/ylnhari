@@ -2,19 +2,20 @@
 
 Get to Know Me Here
 - 👋 Hi, I’m @ylnhari
-- 👀 I’m interested in AI/Machine Learning, Data Science, Cloud technologies.
-- 🌱 I’m on a never ending journey of learning Data Science/AI/ML/DL/MLOPS.
-- 🔭 I’m currently working on Implementing AI/ML Cyber Security solutions on Google Cloud Platform and on premise Nvidia DGX Server.
+- 👀 I’m an AI/ML Engineer | Data Scientist | MLOps Specialist | Proficient in Google Cloud & Azure Platforms
+- 🌱 I’m on a never ending journey of learning.
+- 🔭 I’m currently Driving AI Innovation at Best Buy.
 - 💞️ I’m looking to collaborate on Data Science Projects, AI/Machine Learning and Deep Learning Projects.
 - 📫 How to reach me ylnharimailme@gmail.com
 
 
+[![alt text][4.1]][4]
+[![alt text][3.1]][3]
+[![alt text][5.1]][5]
+[![alt text][6.1]][6]
+[![alt text][7.1]][7]
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
-
 
 <!-- links to social media icons -->
 
@@ -23,6 +24,8 @@ Get to Know Me Here
 [3.1]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white (collaborate with me)
 [4.1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white (Hire Me)
 [5.1]: https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white (code with me)
+[6.1]: https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white (read my blogs)
+[7.1]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white (email me)
 
 <!-- links to your social media accounts -->
 
@@ -31,6 +34,11 @@ Get to Know Me Here
 [3]: http://www.github.com/ylnhari
 [4]: https://www.linkedin.com/in/hari-laxmi-narasimha-yelesetty-1a891b156/
 [5]: https://leetcode.com/ylnhari/
+[6]: https://ylnhari.medium.com/
+[7]: mailto:ylnharimailme@gmail.com
+
+
+
 
 ## 🛠️ Skills
 
