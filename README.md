@@ -8,7 +8,9 @@ Get to Know Me Here
 - 💞️ I’m looking to collaborate on Data Science Projects, AI/Machine Learning and Deep Learning Projects.
 - 📫 How to reach me ylnharimailme@gmail.com
 
+### 🌐 Portfolio & live projects → **[ylnhari.github.io](https://ylnhari.github.io)**
 
+[![Portfolio][0.1]][0]
 [![alt text][4.1]][4]
 [![alt text][3.1]][3]
 [![alt text][5.1]][5]
@@ -19,6 +21,7 @@ Get to Know Me Here
 
 <!-- links to social media icons -->
 
+[0.1]: https://img.shields.io/badge/Portfolio-Visit_Site-6E48AA?style=for-the-badge&logo=githubpages&logoColor=white (visit my portfolio)
 [1.1]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white (tweet to me)
 [2.1]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white (chat with me)
 [3.1]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white (collaborate with me)
@@ -29,6 +32,7 @@ Get to Know Me Here
 
 <!-- links to your social media accounts -->
 
+[0]: https://ylnhari.github.io
 [1]: http://www.twitter.com/ylnhari1
 [2]: http://www.facebook.com/yln.hari
 [3]: http://www.github.com/ylnhari
